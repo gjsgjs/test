@@ -3,6 +3,7 @@ def welcome_message():
     print("====================================")
     print("          欢迎使用本程序！          ")
     print("====================================")
+    print("try to change with label")
 
 if __name__ == "__main__":
     welcome_message()
